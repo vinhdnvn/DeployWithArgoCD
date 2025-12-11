@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_GITHUB/your-project.git
+    repoURL: https://github.com/vinhdnvn/DeployWithArgoCD
     targetRevision: main
     path: k8s
   destination:
