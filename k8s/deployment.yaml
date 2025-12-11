@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: react-demo
-          image: theblackantjsc/react-demo:latest
+          image: theblackantjsc/react-demo:v3
           ports:
             - containerPort: 80
