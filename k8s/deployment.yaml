@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: react-demo
-          image: YOUR_DOCKERHUB/react-demo:latest
+          image: theblackantjsc/react-demo:latest
           ports:
             - containerPort: 80
